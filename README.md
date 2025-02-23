@@ -1,2 +1,2 @@
-# vllm-lb
-vLLM Load Balancer
+# llm-router
+LLM router
